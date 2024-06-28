@@ -1,0 +1,44 @@
+C:\Users\ComTec\source\repos\RDPC\RDPC\bin\Debug\RDPC.exe.config
+C:\Users\ComTec\source\repos\RDPC\RDPC\bin\Debug\RDPC.exe
+C:\Users\ComTec\source\repos\RDPC\RDPC\bin\Debug\RDPC.pdb
+C:\Users\ComTec\source\repos\RDPC\RDPC\bin\Debug\AxMSTSCLib.dll
+C:\Users\ComTec\source\repos\RDPC\RDPC\bin\Debug\MetroFramework.Design.dll
+C:\Users\ComTec\source\repos\RDPC\RDPC\bin\Debug\MetroFramework.dll
+C:\Users\ComTec\source\repos\RDPC\RDPC\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\RDPC.csproj.AssemblyReference.cache
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\RDPC.Properties.Resources.resources
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\RDPC.csproj.GenerateResource.cache
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\RDPC.csproj.CoreCompileInputs.cache
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\RDPC.csproj.CopyComplete
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\RDPC.exe
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\RDPC.pdb
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\RDPC.Form1.resources
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\Interop.TERMMGRLib.dll
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\RDPC.csproj.ResolveComReference.cache
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\Interop.MsRdpSessionManager.dll
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\ComTec\source\repos\RDPC\RDPC\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\bin\Debug\RDPC.exe.config
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\bin\Debug\RDPC.exe
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\bin\Debug\RDPC.pdb
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\bin\Debug\MetroFramework.Design.dll
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\bin\Debug\MetroFramework.dll
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.csproj.AssemblyReference.cache
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\Interop.TERMMGRLib.dll
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.csproj.ResolveComReference.cache
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.Form1.resources
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.Properties.Resources.resources
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.csproj.GenerateResource.cache
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.csproj.CoreCompileInputs.cache
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.exe
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.pdb
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\bin\Debug\RDPC.exe.manifest
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\bin\Debug\RDPC.application
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.exe.manifest
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.application
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.PasswordWindow.resources
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\Interop.MsRdpSessionManager.dll
+C:\Users\ComTec\source\repos\RDPC (vereinf)\RDPC\obj\Debug\RDPC.csproj.Up2Date
